@@ -33,6 +33,12 @@ header, footer, #content {
     margin: 5px;
     padding: 5px;
 }
+m1, m2 {
+    background: #a6b099;
+    border: 5px solid #227b06;
+    margin: 5px;
+    padding: 5px;
+}
 #main {
     background: #efc9e9;
     border: 5px solid #792222;
