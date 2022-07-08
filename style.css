@@ -86,4 +86,5 @@ td {
 }
 #me-photo {
   border: 3px solid silver;
+  border-radius: 50%;
 }
